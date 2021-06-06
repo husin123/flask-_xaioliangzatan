@@ -1,0 +1,6 @@
+/data_backup/
+.vscode/
+gale/test/test_data/
+auto_start.py
+__pycache__/
+*.log
